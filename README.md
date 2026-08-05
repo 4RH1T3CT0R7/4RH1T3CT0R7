@@ -98,9 +98,10 @@ live standings over WebSocket.
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Prevented a core crash on Remove Invalid, and made the system proxy clear itself on exit |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 merged pull requests in this Hearts of Iron IV mod: the intelligence agency system, several economy exploits, AI behaviour and a number of national focus trees |
 
-There are another two dozen pull requests open in Kubernetes, VS Code, Moby,
-Prometheus, Ollama, Next.js, TensorFlow, Supabase, hashcat, OBS Studio, Ghostty
-and Notepad++.
+Across all of this I have opened pull requests against 32 projects that are not
+mine. Another 24 of them are still open, in seventeen projects including
+Kubernetes, VS Code, Moby, Prometheus, Ollama, Next.js, TensorFlow, Supabase,
+hashcat, OBS Studio, Notepad++ and both Arduino IDEs.
 
 ## Russian game localizations
 
@@ -248,9 +249,10 @@ ELO, таблица обновляется в реальном времени ч
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Не дал ядру падать на Remove Invalid и заставил системный прокси сбрасываться при выходе |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 принятых пул-реквестов в мод для Hearts of Iron IV: система разведки, несколько экономических эксплойтов, поведение ИИ и целый ряд древ национальных фокусов |
 
-Ещё пара десятков пул-реквестов сейчас открыта в Kubernetes, VS Code, Moby,
-Prometheus, Ollama, Next.js, TensorFlow, Supabase, hashcat, OBS Studio, Ghostty
-и Notepad++.
+Всего я открывал пул-реквесты в 32 чужих проекта. Ещё 24 из них сейчас открыты,
+в семнадцати проектах, среди которых Kubernetes, VS Code, Moby, Prometheus,
+Ollama, Next.js, TensorFlow, Supabase, hashcat, OBS Studio, Notepad++ и обе
+среды Arduino.
 
 ## Русские локализации игр
 
