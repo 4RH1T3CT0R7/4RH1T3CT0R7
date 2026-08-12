@@ -32,7 +32,9 @@ surprisingly good way to learn how other people build software.
 <tr>
 <td width="50%" valign="top">
 
-### [doom-regex](https://github.com/4RH1T3CT0R7/doom-regex) ⭐114
+### [doom-regex](https://github.com/4RH1T3CT0R7/doom-regex)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/doom-regex?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/doom-regex/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/doom-regex/main/docs/doom_regex_clip.gif" width="100%">
 
@@ -43,7 +45,9 @@ computer, if you are patient.
 </td>
 <td width="50%" valign="top">
 
-### [ttf-doom](https://github.com/4RH1T3CT0R7/ttf-doom) ⭐65
+### [ttf-doom](https://github.com/4RH1T3CT0R7/ttf-doom)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/ttf-doom?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/ttf-doom/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/ttf-doom/main/docs/media/demo.gif" width="100%">
 
@@ -56,7 +60,9 @@ rendering. The whole engine is 6.5 KB.
 <tr>
 <td width="50%" valign="top">
 
-### [balatro-port-tui](https://github.com/4RH1T3CT0R7/balatro-port-tui) ⭐60
+### [balatro-port-tui](https://github.com/4RH1T3CT0R7/balatro-port-tui)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/balatro-port-tui?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/balatro-port-tui/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/balatro-port-tui/main/assets/demo.gif" width="100%">
 
@@ -68,6 +74,8 @@ and nine shaders emulated on the CPU.
 <td width="50%" valign="top">
 
 ### [TJudge](https://github.com/4RH1T3CT0R7/TJudge)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/TJudge?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/TJudge/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/4RH1T3CT0R7/main/assets/tjudge-demo.gif" width="100%">
 
@@ -183,7 +191,9 @@ Engineering that has no practical reason to exist. Music, more or less constantl
 <tr>
 <td width="50%" valign="top">
 
-### [doom-regex](https://github.com/4RH1T3CT0R7/doom-regex) ⭐114
+### [doom-regex](https://github.com/4RH1T3CT0R7/doom-regex)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/doom-regex?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/doom-regex/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/doom-regex/main/docs/doom_regex_clip.gif" width="100%">
 
@@ -194,7 +204,9 @@ PCRE2 достаточно, чтобы быть компьютером, если
 </td>
 <td width="50%" valign="top">
 
-### [ttf-doom](https://github.com/4RH1T3CT0R7/ttf-doom) ⭐65
+### [ttf-doom](https://github.com/4RH1T3CT0R7/ttf-doom)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/ttf-doom?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/ttf-doom/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/ttf-doom/main/docs/media/demo.gif" width="100%">
 
@@ -207,7 +219,9 @@ PCRE2 достаточно, чтобы быть компьютером, если
 <tr>
 <td width="50%" valign="top">
 
-### [balatro-port-tui](https://github.com/4RH1T3CT0R7/balatro-port-tui) ⭐60
+### [balatro-port-tui](https://github.com/4RH1T3CT0R7/balatro-port-tui)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/balatro-port-tui?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/balatro-port-tui/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/balatro-port-tui/main/assets/demo.gif" width="100%">
 
@@ -219,6 +233,8 @@ Balatro в терминале, запускающая оригинальный L
 <td width="50%" valign="top">
 
 ### [TJudge](https://github.com/4RH1T3CT0R7/TJudge)
+
+[![stars](https://img.shields.io/github/stars/4RH1T3CT0R7/TJudge?style=flat-square&logo=github&logoColor=white&label=stars&labelColor=21262d&color=e3b341)](https://github.com/4RH1T3CT0R7/TJudge/stargazers)
 
 <img src="https://raw.githubusercontent.com/4RH1T3CT0R7/4RH1T3CT0R7/main/assets/tjudge-demo.gif" width="100%">
 
