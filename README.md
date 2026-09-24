@@ -100,7 +100,7 @@ live standings over WebSocket.
 | [![Telegram](https://img.shields.io/badge/Telegram_Desktop-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://github.com/telegramdesktop/tdesktop/pull/30179) | Restored the expandable quote button in the caption field |
 | [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/microsoft/terminal/pull/19931) | Focused the terminal on click-drag while search is open |
 | [![PowerToys](https://img.shields.io/badge/PowerToys-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/microsoft/PowerToys/pull/50093) | Fixed Screen Ruler's edge detection at the screen edge and an overflow in its bounds-mode colour comparison |
-| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Imager-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://github.com/raspberrypi/rpi-imager/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Seven fixes, mostly around polkit on immutable distros, stale WiFi settings, file dialogs, the localisation grid and a fallback chime for Linux |
+| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Imager-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://github.com/raspberrypi/rpi-imager/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Eight fixes, mostly around polkit on immutable distros, stale WiFi settings, file dialogs, the localisation grid, a fallback chime for Linux and non-ASCII Wi-Fi names in cloud-init |
 | [![Bambu Lab](https://img.shields.io/badge/Bambu_Studio-00AE42?style=flat-square&logo=bambulab&logoColor=white)](https://github.com/bambulab/BambuStudio/pull/9664) | Fixed window drag lag on Windows |
 | [![Flipper](https://img.shields.io/badge/Flipper_One-FF8200?style=flat-square&logo=flipper&logoColor=white)](https://github.com/flipperdevices/flipperone-mcu-firmware/pull/70) | Wrote the build and firmware update documentation |
 | [![bitchat](https://img.shields.io/badge/bitchat-000000?style=flat-square&logo=bluetooth&logoColor=white)](https://github.com/permissionlesstech/bitchat/pull/1069) | Fixed a crash when opening a private message a second time |
@@ -119,7 +119,7 @@ live standings over WebSocket.
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 merged pull requests in this Hearts of Iron IV mod: the intelligence agency system, several economy exploits, AI behaviour and a number of national focus trees |
 
 Across all of this I have opened pull requests against 52 projects that are not
-mine. Another 56 of them are still open, in 32 projects including Kubernetes,
+mine. Another 54 of them are still open, in 32 projects including Kubernetes,
 VS Code, Moby, Ollama, Next.js, TensorFlow, Supabase, Tailscale, OBS Studio,
 Notepad++ and both Arduino IDEs.
 
@@ -271,7 +271,7 @@ ELO, таблица обновляется в реальном времени ч
 | [![Telegram](https://img.shields.io/badge/Telegram_Desktop-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://github.com/telegramdesktop/tdesktop/pull/30179) | Вернул кнопку разворачивания цитаты в поле подписи |
 | [![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/microsoft/terminal/pull/19931) | Сделал так, чтобы терминал получал фокус при выделении мышью с открытым поиском |
 | [![PowerToys](https://img.shields.io/badge/PowerToys-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/microsoft/PowerToys/pull/50093) | Починил в Screen Ruler поиск границ у самого края экрана и переполнение при сравнении цветов в режиме рамки |
-| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Imager-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://github.com/raspberrypi/rpi-imager/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Семь правок: polkit на неизменяемых дистрибутивах, залипавшие настройки WiFi, файловые диалоги, сетка полей локализации и запасной звук для систем без freedesktop-звуков |
+| [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_Imager-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://github.com/raspberrypi/rpi-imager/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Восемь правок: polkit на неизменяемых дистрибутивах, залипавшие настройки WiFi, файловые диалоги, сетка полей локализации, запасной звук для систем без freedesktop-звуков и имена Wi-Fi не латиницей в cloud-init |
 | [![Bambu Lab](https://img.shields.io/badge/Bambu_Studio-00AE42?style=flat-square&logo=bambulab&logoColor=white)](https://github.com/bambulab/BambuStudio/pull/9664) | Убрал лаг перетаскивания окна в Windows |
 | [![Flipper](https://img.shields.io/badge/Flipper_One-FF8200?style=flat-square&logo=flipper&logoColor=white)](https://github.com/flipperdevices/flipperone-mcu-firmware/pull/70) | Написал документацию по сборке и прошивке |
 | [![bitchat](https://img.shields.io/badge/bitchat-000000?style=flat-square&logo=bluetooth&logoColor=white)](https://github.com/permissionlesstech/bitchat/pull/1069) | Починил падение при повторном открытии личной переписки |
@@ -289,7 +289,7 @@ ELO, таблица обновляется в реальном времени ч
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Шесть правок: падение ядра на Remove Invalid, системный прокси не сбрасывался при выходе, устаревшие результаты завершённой проверки задержек, имена полей для экранных дикторов в диалогах хоткеев, маршрутов и профиля, и диалог маршрутов, растягивавшийся по самому длинному имени профиля |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 принятых пул-реквестов в мод для Hearts of Iron IV: система разведки, несколько экономических эксплойтов, поведение ИИ и целый ряд древ национальных фокусов |
 
-Всего я открывал пул-реквесты в 52 чужих проекта. Ещё 56 из них сейчас открыты,
+Всего я открывал пул-реквесты в 52 чужих проекта. Ещё 54 из них сейчас открыты,
 в 32 проектах, среди которых Kubernetes, VS Code, Moby, Ollama, Next.js,
 TensorFlow, Supabase, Tailscale, OBS Studio, Notepad++ и обе среды Arduino.
 
