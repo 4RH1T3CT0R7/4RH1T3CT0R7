@@ -112,13 +112,14 @@ live standings over WebSocket.
 | [![Space Station 14](https://img.shields.io/badge/Space_Station_14-1C6EA4?style=flat-square)](https://github.com/space-wizards/space-station-14/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Defibrillators no longer report on whatever else the patient is strapped to, and the Crewsimov law board is called Crewsimov internally too |
 | [![Flameshot](https://img.shields.io/badge/Flameshot-009688?style=flat-square)](https://github.com/flameshot-org/flameshot/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Fixed the pin size on scaled Windows screens, and added a same-language fallback for locales without their own translation |
 | [![RetroArch](https://img.shields.io/badge/RetroArch-000000?style=flat-square)](https://github.com/libretro/RetroArch/pull/19584) | Restored the widget scale override range on console and mobile builds |
+| [![kitty](https://img.shields.io/badge/kitty-1F1F1F?style=flat-square)](https://github.com/kovidgoyal/kitty/pull/10521) | Made `save_as_session` report an error when given a directory, instead of silently saving the session next to it |
 | [![micro](https://img.shields.io/badge/micro-2E3440?style=flat-square)](https://github.com/micro-editor/micro/pull/4179) | Made the linter plugin compare paths with `filepath.Base()`, so linter messages stop being dropped |
 | [![hashcat](https://img.shields.io/badge/hashcat-111111?style=flat-square)](https://github.com/hashcat/hashcat/pull/4617) | Fixed the salt length reported by hash mode 3710 with the optimized kernel |
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Six fixes: a core crash on Remove Invalid, the system proxy clearing itself on exit, stale results from a finished latency sweep, screen-reader names in the hotkey, routing and profile dialogs, and a routing dialog that grew as wide as the longest profile name |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 merged pull requests in this Hearts of Iron IV mod: the intelligence agency system, several economy exploits, AI behaviour and a number of national focus trees |
 
 Across all of this I have opened pull requests against 52 projects that are not
-mine. Another 57 of them are still open, in 33 projects including Kubernetes,
+mine. Another 56 of them are still open, in 32 projects including Kubernetes,
 VS Code, Moby, Ollama, Next.js, TensorFlow, Supabase, Tailscale, OBS Studio,
 Notepad++ and both Arduino IDEs.
 
@@ -282,13 +283,14 @@ ELO, таблица обновляется в реальном времени ч
 | [![Space Station 14](https://img.shields.io/badge/Space_Station_14-1C6EA4?style=flat-square)](https://github.com/space-wizards/space-station-14/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Дефибриллятор больше не отчитывается о том, к чему пристёгнут пациент, а плата законов Crewsimov теперь и внутри называется Crewsimov |
 | [![Flameshot](https://img.shields.io/badge/Flameshot-009688?style=flat-square)](https://github.com/flameshot-org/flameshot/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Починил размер закреплённого снимка на масштабированных экранах Windows и добавил фолбэк на перевод того же языка |
 | [![RetroArch](https://img.shields.io/badge/RetroArch-000000?style=flat-square)](https://github.com/libretro/RetroArch/pull/19584) | Вернул диапазон настройки масштаба виджетов на консольных и мобильных сборках |
+| [![kitty](https://img.shields.io/badge/kitty-1F1F1F?style=flat-square)](https://github.com/kovidgoyal/kitty/pull/10521) | `save_as_session` теперь сообщает об ошибке, если указана папка, а не молча сохраняет сессию рядом с ней |
 | [![micro](https://img.shields.io/badge/micro-2E3440?style=flat-square)](https://github.com/micro-editor/micro/pull/4179) | Научил плагин линтера сравнивать пути через `filepath.Base()`, чтобы сообщения линтера не терялись |
 | [![hashcat](https://img.shields.io/badge/hashcat-111111?style=flat-square)](https://github.com/hashcat/hashcat/pull/4617) | Исправил длину соли, которую режим 3710 сообщает для оптимизированного ядра |
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Шесть правок: падение ядра на Remove Invalid, системный прокси не сбрасывался при выходе, устаревшие результаты завершённой проверки задержек, имена полей для экранных дикторов в диалогах хоткеев, маршрутов и профиля, и диалог маршрутов, растягивавшийся по самому длинному имени профиля |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 принятых пул-реквестов в мод для Hearts of Iron IV: система разведки, несколько экономических эксплойтов, поведение ИИ и целый ряд древ национальных фокусов |
 
-Всего я открывал пул-реквесты в 52 чужих проекта. Ещё 57 из них сейчас открыты,
-в 33 проектах, среди которых Kubernetes, VS Code, Moby, Ollama, Next.js,
+Всего я открывал пул-реквесты в 52 чужих проекта. Ещё 56 из них сейчас открыты,
+в 32 проектах, среди которых Kubernetes, VS Code, Moby, Ollama, Next.js,
 TensorFlow, Supabase, Tailscale, OBS Studio, Notepad++ и обе среды Arduino.
 
 ## Русские локализации игр
