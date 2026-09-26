@@ -127,6 +127,12 @@ mine. Another 54 of them are still open, in 32 projects including Kubernetes,
 VS Code, Moby, Ollama, Next.js, TensorFlow, Supabase, Tailscale, OBS Studio,
 Notepad++ and both Arduino IDEs.
 
+## Security
+
+| | |
+|---|---|
+| [GHSA-5344-6x9j-2w33](https://github.com/nicolargo/glances/security/advisories/GHSA-5344-6x9j-2w33) | Glances, High: the limits API returned plugin credentials (IP lookup account, monitored-site and proxy passwords) in plain text without authentication. Reported privately with the fix and regression test |
+
 ## Russian game localizations
 
 Four games that never got an official Russian release, or got a bad one.
@@ -300,6 +306,12 @@ ELO, таблица обновляется в реальном времени ч
 Всего я открывал пул-реквесты в 52 чужих проекта. Ещё 54 из них сейчас открыты,
 в 32 проектах, среди которых Kubernetes, VS Code, Moby, Ollama, Next.js,
 TensorFlow, Supabase, Tailscale, OBS Studio, Notepad++ и обе среды Arduino.
+
+## Безопасность
+
+| | |
+|---|---|
+| [GHSA-5344-6x9j-2w33](https://github.com/nicolargo/glances/security/advisories/GHSA-5344-6x9j-2w33) | Glances, High: API лимитов без авторизации отдавал открытым текстом учётные данные из конфига плагинов (аккаунт сервиса IP, пароли сайтов и прокси). Сообщил приватно вместе с исправлением и регрессионным тестом |
 
 ## Русские локализации игр
 
