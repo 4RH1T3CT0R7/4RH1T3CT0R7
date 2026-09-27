@@ -124,10 +124,10 @@ live standings over WebSocket.
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Six fixes: a core crash on Remove Invalid, the system proxy clearing itself on exit, stale results from a finished latency sweep, screen-reader names in the hotkey, routing and profile dialogs, and a routing dialog that grew as wide as the longest profile name |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 merged pull requests in this Hearts of Iron IV mod: the intelligence agency system, several economy exploits, AI behaviour and a number of national focus trees |
 
-Across all of this I have opened pull requests against 52 projects that are not
-mine. Another 54 of them are still open, in 32 projects including Kubernetes,
+Across all of this I have opened pull requests against 68 projects that are not
+mine. Another 81 of them are still open, in 48 projects including Kubernetes,
 VS Code, Moby, Ollama, Next.js, TensorFlow, Supabase, Tailscale, OBS Studio,
-Notepad++ and both Arduino IDEs.
+Notepad++, three.js, Tokio, Kodi, raylib and both Arduino IDEs.
 
 ## Security
 
@@ -307,9 +307,10 @@ ELO, таблица обновляется в реальном времени ч
 | [![Throne](https://img.shields.io/badge/Throne-1A73E8?style=flat-square&logo=v2fly&logoColor=white)](https://github.com/throneproj/Throne/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | Шесть правок: падение ядра на Remove Invalid, системный прокси не сбрасывался при выходе, устаревшие результаты завершённой проверки задержек, имена полей для экранных дикторов в диалогах хоткеев, маршрутов и профиля, и диалог маршрутов, растягивавшийся по самому длинному имени профиля |
 | [![Millennium Dawn](https://img.shields.io/badge/Millennium_Dawn-8B0000?style=flat-square)](https://github.com/MillenniumDawn/Millennium-Dawn/pulls?q=is%3Apr+author%3A4RH1T3CT0R7+is%3Amerged) | 66 принятых пул-реквестов в мод для Hearts of Iron IV: система разведки, несколько экономических эксплойтов, поведение ИИ и целый ряд древ национальных фокусов |
 
-Всего я открывал пул-реквесты в 52 чужих проекта. Ещё 54 из них сейчас открыты,
-в 32 проектах, среди которых Kubernetes, VS Code, Moby, Ollama, Next.js,
-TensorFlow, Supabase, Tailscale, OBS Studio, Notepad++ и обе среды Arduino.
+Всего я открывал пул-реквесты в 68 чужих проектов. Ещё 81 из них сейчас открыт,
+в 48 проектах, среди которых Kubernetes, VS Code, Moby, Ollama, Next.js,
+TensorFlow, Supabase, Tailscale, OBS Studio, Notepad++, three.js, Tokio, Kodi,
+raylib и обе среды Arduino.
 
 ## Безопасность
 
